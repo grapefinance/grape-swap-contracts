@@ -24,7 +24,7 @@ development: {
 ``` 
 
 ### Local Development Build
-1. In a separate termianl
+1. In a separate terminal
 ```bash
 ganache-cli
 ``` 
