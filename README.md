@@ -1,4 +1,4 @@
-# grape-swap-contracts
+# Grape Swap Contracts
 Core smart contracts of Grape Swap
 
 ## Local Development
